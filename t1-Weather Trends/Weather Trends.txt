@@ -1,0 +1,6 @@
+SELECT *
+FROM city_data
+WHERE city LIKE '%New York%';
+
+SELECT *
+FROM global_data;
